@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nabilelnour15.github.io/overtop-website/sitemap.xml
